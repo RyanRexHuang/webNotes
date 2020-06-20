@@ -1,1 +1,1 @@
-### Record something about programming
+### Record something about shell
